@@ -22,6 +22,7 @@ namespace Git
             Console.WriteLine("this only reflect when pull");
             Console.WriteLine("test with pull, this change is commited but i am not using sync here. sync do push and pull both that i don't want.");
             Console.WriteLine("Revision for commit 4");
+            Console.WriteLine("Revision for commit 5");
         }
     }
 }

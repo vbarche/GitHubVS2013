@@ -19,6 +19,7 @@ namespace Git
             Console.WriteLine("Commit 1");
             Console.WriteLine("Commit 2");
             Console.WriteLine("Commit 3");
+            Console.WriteLine("test with pull, this change is commited but i am not using sync here. sync do push and pull both that i don't want.");
         }
     }
 }

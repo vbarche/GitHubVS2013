@@ -19,6 +19,7 @@ namespace Git
             Console.WriteLine("Commit 1");
             Console.WriteLine("Commit 2");
             Console.WriteLine("Commit 3");
+            Console.WriteLine("this only reflect when pull");
         }
     }
 }

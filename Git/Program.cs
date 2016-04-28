@@ -6,13 +6,19 @@ using System.Threading.Tasks;
 
 namespace Git
 {
-    class Program
+    public class Program
     {
+        /// <summary>
+        /// Add summary
+        /// </summary>
+        /// <param name="args"></param>
         static void Main(string[] args)
         {
             Console.WriteLine("Hello Git");
             Console.WriteLine("this is change by others pull request");
             Console.WriteLine("Commit 1");
+            Console.WriteLine("Commit 2");
+            Console.WriteLine("Commit 3");
         }
     }
 }

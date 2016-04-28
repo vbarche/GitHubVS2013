@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Git
 {
-    class Program
+    public class Program
     {
         /// <summary>
         /// Add summary
@@ -18,6 +18,7 @@ namespace Git
             Console.WriteLine("this is change by others pull request");
             Console.WriteLine("Commit 1");
             Console.WriteLine("Commit 2");
+            Console.WriteLine("Commit 3");
         }
     }
 }
